@@ -1,0 +1,13 @@
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.exe
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.deps.json
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.runtimeconfig.json
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.runtimeconfig.dev.json
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.dll
+C:\introprog\ClaseGIT\Clase2\bin\Debug\netcoreapp3.1\Clase2.pdb
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.csprojAssemblyReference.cache
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.AssemblyInfoInputs.cache
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.AssemblyInfo.cs
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.csproj.CoreCompileInputs.cache
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.dll
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.pdb
+C:\introprog\ClaseGIT\Clase2\obj\Debug\netcoreapp3.1\Clase2.genruntimeconfig.cache
